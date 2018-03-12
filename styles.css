@@ -1,0 +1,22 @@
+p {
+	font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif; 
+
+}
+
+h1 {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+	text-align: center;
+}
+
+body {
+	font-size: 12px;
+}
+
+p:nth-of-type(1) em {
+	text-decoration: underline;
+}
